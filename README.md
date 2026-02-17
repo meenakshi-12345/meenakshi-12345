@@ -80,17 +80,29 @@
 
 
 
+## 🧠 The Human Behind the Data  
 
+```python
+class Meenakshi:
 
+    def __init__(self):
+        self.human_side = {
+            "Reading": "85% - Expanding knowledge beyond syllabus",
+            "Painting": "90% - Visual creativity & patience",
+            "Journaling": "75% - Structured thinking & reflection"
+        }
 
+        self.how_it_helps_my_career = {
+            "Reading": "Improves analytical depth",
+            "Painting": "Enhances visualization creativity",
+            "Journaling": "Strengthens clarity in communication"
+        }
 
+        self.core_belief = "Data is logical. Creativity makes it powerful."
 
-
-
-
-
-
-
+    def summary(self):
+        return "Creative + Analytical Hybrid 🚀"
+```
 
 
 
