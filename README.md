@@ -17,7 +17,7 @@
 
 
 - 🔭 Currently working on **real-world data analytics projects**
-- 💡 Skilled in **SQL, Power BI, Tableau, and Python for Data Analysis**
+- 💡 Skilled in **SQL, Power BI, and Python for Data Analysis**
 - 👩‍💻 Explore all my projects on [GitHub](https://github.com/meenakshi-12345)
 - 📝 Passionate about analyzing real-world datasets and generating actionable insights
 - 💬 Ask me about **SQL, Data Cleaning, EDA, and Dashboard Building**
