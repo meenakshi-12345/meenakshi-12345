@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Meenakshi%20Rajpurohit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- HacjerRank -->
+<!-- HackerRank -->
 
 <a href="https://www.hackerrank.com/imeenakshii28">
   <img src="https://img.shields.io/badge/HackerRank-imeenakshii28-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
@@ -61,13 +61,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic&logo=python&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=meenakshi-12345&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=meenakshi-12345&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-12345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📈 GitHub Stats
 
-
-
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=meenakshi-12345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-12345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook" />
+</p>
 
 ## 📊 GitHub Analytics
 
