@@ -62,10 +62,9 @@
 
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=meenakshi-12345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-12345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi-12345&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-12345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook"/>
 </p>
 
 ## 📊 GitHub Analytics
