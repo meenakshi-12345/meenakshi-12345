@@ -75,6 +75,31 @@
 </p>
 
 
+## 🎓 Education
+```
+**🎓 B.Tech in Computer Science & Engineering**  
+🏫 Government Engineering College, Bikaner  
+📅 2022 – Present  
+
+> 💡 Passionate about Data Analytics, Problem Solving & Building Data-Driven Solutions  
+
+- 📊 **CGPA:** 8.6 / 10  
+- 🚀 **Latest Semester SGPA:** 9.61 / 10  
+
+### 📚 Relevant Coursework
+- Database Management Systems (DBMS)  
+- Object-Oriented Programming (OOP)  
+- Operating Systems  
+- Artificial Intelligence & Machine Learning  
+- Data Analytics & Statistics  
+
+### 🏆 Highlights
+- 🌟 Strong academic consistency with upward performance trend  
+- 📈 Focused on **Data Analytics, SQL & Python-based problem solving**  
+- 🧠 Hands-on exposure to real-world datasets & analytical thinking  
+
+```
+
 
 
 
