@@ -77,12 +77,23 @@
   💡 Consistently practicing and building 
 </p>
 
+## 📊 My KPI's
+
+<p align="left">
+  <<img width="794" height="170" alt="image" src="https://github.com/user-attachments/assets/9a1f8d4f-435f-446e-87b4-bc007a2bae78" />
+
+</p>
+
+
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi-12345&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-12345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook"/>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=meenakshi-12345&theme=tokyonight&hide_border=true" />
 </p>
+
+
+
 
 ## 📊 GitHub Analytics
 
