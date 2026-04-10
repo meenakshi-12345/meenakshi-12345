@@ -77,10 +77,10 @@
   💡 Consistently practicing and building 
 </p>
 
-## 📊 My KPI's
+## 📊 My Working KPI's
 
 <p align="left">
-  <<img width="794" height="170" alt="image" src="https://github.com/user-attachments/assets/9a1f8d4f-435f-446e-87b4-bc007a2bae78" />
+  <img width="794" height="170" alt="image" src="https://github.com/user-attachments/assets/9a1f8d4f-435f-446e-87b4-bc007a2bae78" />
 
 </p>
 
