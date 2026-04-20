@@ -124,7 +124,7 @@
 - 📈 Focused on **Data Analytics, SQL & Python-based problem solving**  
 - 🧠 Hands-on exposure to real-world datasets & analytical thinking  
 
-### ⚡ Leadership
+### ⚡ Leadership Quality 
 - Core Member of Industry Institute Interaction Cell (IIC) @ Government Engineering College Bikaner
 
 ```
