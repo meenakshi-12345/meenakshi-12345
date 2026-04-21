@@ -114,7 +114,8 @@
 
 ### 📚 Relevant Coursework
 - Database Management Systems (DBMS)  
-- Object-Oriented Programming (OOP)  
+- Object-Oriented Programming (OOP)
+- Problem Solving Skills 
 - Operating Systems  
 - Artificial Intelligence & Machine Learning  
 - Data Analytics & Statistics  
