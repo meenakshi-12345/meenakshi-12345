@@ -22,7 +22,7 @@
 - 📝 Passionate about analyzing real-world datasets and generating actionable insights
 - 💬 Ask me about **SQL, Data Cleaning, EDA, and Dashboard Building**
 - 📫 Reach me at **imeenakshii28@gmail.com**
-- ⚡ Fun fact: I love webseries -Stranger Things 
+- ⚡ Fun fact: I love webseries - Stranger Things 
 
 
 
