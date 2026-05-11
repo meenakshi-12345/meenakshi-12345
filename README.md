@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&center=true&vCenter=true&lines=Data+Analyst;SQL+Enthusiast;Power+BI+Developer;Turning+Data+Into+Insights;Problem+Solver+with+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&center=true&vCenter=true&lines=Data+Analyst;SQL+Enthusiast;Power+BI+Developer;Turning+Data+Into+Insights;Problem+Solver+with+Data;Story+Teller" />
 </p>
 
 
