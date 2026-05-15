@@ -99,38 +99,54 @@
 </p>
 
 
-## 🎓 Education
+
+<h2 align="left">🎓 Education</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/B.Tech%20in%20CSE-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" />
+
+<img src="https://img.shields.io/badge/Government%20Engineering%20College%20Bikaner-161B22?style=for-the-badge&logo=google-scholar&logoColor=F59E0B" />
+
+<img src="https://img.shields.io/badge/CGPA%20•%208.6%2F10-0D1117?style=for-the-badge&logo=googlesheets&logoColor=22C55E" />
+
+<img src="https://img.shields.io/badge/Latest%20SGPA%20•%209.61%2F10-161B22?style=for-the-badge&logo=target&logoColor=A855F7" />
+
+</div>
+
+<br>
+
+```yaml
+🎓 Degree      : B.Tech in Computer Science & Engineering
+🏫 College     : Government Engineering College, Bikaner
+📅 Duration    : 2022 — Present
+
+💡 Specializing In
+   ├── Data Analytics
+   ├── SQL & Python
+   ├── Problem Solving
+   └── Data-Driven Solutions
+
+📚 Relevant Coursework
+   ├── Database Management Systems
+   ├── Object-Oriented Programming
+   ├── Operating Systems
+   ├── Artificial Intelligence & Machine Learning
+   ├── Data Analytics & Statistics
+   └── Problem Solving Skills
+
+🏆 Highlights
+   ├── Strong academic consistency
+   ├── Upward performance trend
+   ├── Real-world dataset exposure
+   └── Analytical & logical thinking
+
+⚡ Leadership
+   └── Core Member — Industry Institute Interaction Cell (IIC)
+
+
+
 ```
-**🎓 B.Tech in Computer Science & Engineering**  
-🏫 Government Engineering College, Bikaner  
-📅 2022 – Present  
-
-> 💡 Passionate about Data Analytics, Problem Solving & Building Data-Driven Solutions  
-
-- 📊 **CGPA:** 8.6 / 10  
-- 🚀 **Latest Semester SGPA:** 9.61 / 10  
-
-### 📚 Relevant Coursework
-- Database Management Systems (DBMS)  
-- Object-Oriented Programming (OOP)
-- Problem Solving Skills 
-- Operating Systems  
-- Artificial Intelligence & Machine Learning  
-- Data Analytics & Statistics  
-
-### 🏆 Highlights
-- 🌟 Strong academic consistency with upward performance trend  
-- 📈 Focused on **Data Analytics, SQL & Python-based problem solving**  
-- 🧠 Hands-on exposure to real-world datasets & analytical thinking  
-
-### ⚡ Leadership Quality 
-- Core Member of Industry Institute Interaction Cell (IIC) @ Government Engineering College Bikaner
-
-```
-
-
-
-
 ## 🧠 The Human Behind the Data  
 
 ```python
