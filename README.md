@@ -43,8 +43,6 @@
   <img src="https://img.shields.io/badge/HackerRank-imeenakshii28-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
-
-
 <!-- Kaggle -->
 <a href="https://www.kaggle.com/meenakshirajp28">
   <img src="https://img.shields.io/badge/Kaggle-meenakshirajp28-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -169,21 +167,21 @@ class Meenakshi:
 
 
 
+<h2 align="center"> Connect With Me ✨</h2>
 
+<p align="center">
+  <a href="mailto:imeenakshii28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/meenakshirajp28">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=450&lines=Let's+Talk+About+Data" />
+</p>
 
 
 
