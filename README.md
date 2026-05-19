@@ -181,6 +181,39 @@ class Meenakshi:
 <img width="1040" height="360" alt="activity-overview" src="https://github.com/user-attachments/assets/a81f7771-f0eb-4f45-8796-d380f5e85793" />
 
 
+## ⚡ DATA WORKFLOW ⚡
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[Messy Data 📂] --> B[SQL Cleaning 🧹]
+B --> C[Python Analysis 🐍]
+C --> D[Finding Insights 🔍]
+D --> E[Power BI Dashboard 📊]
+E --> F[Business Decisions 🚀]
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+Into+Powerful+Insights;Building+Dashboards+That+Actually+Matter;Exploring+Patterns+Hidden+Inside+Data;SQL+%2B+Python+%2B+Power+BI+%3D+Insights" />
+
+</div>
+
+
+
+
 
 
 
@@ -199,6 +232,8 @@ class Meenakshi:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=450&lines=Let's+Talk+About+Data" />
 </p>
+
+
 
 
 
