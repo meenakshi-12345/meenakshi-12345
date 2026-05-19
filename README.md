@@ -205,15 +205,6 @@ E --> F[Business Decisions 🚀]
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+Into+Powerful+Insights;Building+Dashboards+That+Actually+Matter;Exploring+Patterns+Hidden+Inside+Data;SQL+%2B+Python+%2B+Power+BI+%3D+Insights" />
-
-</div>
-
-
-
-
 
 
 
@@ -232,6 +223,7 @@ E --> F[Business Decisions 🚀]
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=450&lines=Let's+Talk+About+Data" />
 </p>
+
 
 
 
