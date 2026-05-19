@@ -189,17 +189,25 @@ class Meenakshi:
 
 ---
 
-<div align="center">
 
-```mermaid
-flowchart LR
 
-A[Messy Data 📂] --> B[SQL Cleaning 🧹]
-B --> C[Python Analysis 🐍]
-C --> D[Finding Insights 🔍]
-D --> E[Power BI Dashboard 📊]
-E --> F[Business Decisions 🚀]
-```
+<table>
+<tr>
+<td align="center">📂<br><b>Messy Data</b></td>
+<td>➡️</td>
+<td align="center">🧹<br><b>SQL Cleaning</b></td>
+<td>➡️</td>
+<td align="center">🐍<br><b>Python Analysis</b></td>
+<td>➡️</td>
+<td align="center">🔍<br><b>Insights</b></td>
+<td>➡️</td>
+<td align="center">📊<br><b>Dashboard</b></td>
+<td>➡️</td>
+<td align="center">🚀<br><b>Business Decisions</b></td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
@@ -223,9 +231,6 @@ E --> F[Business Decisions 🚀]
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=450&lines=Let's+Talk+About+Data" />
 </p>
-
-
-
 
 
 
