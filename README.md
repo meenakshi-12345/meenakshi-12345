@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Meenakshi Rajpurohit</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -239,9 +242,6 @@ class Meenakshi:
 
 
 
-
-
-
-
-
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4D9D,100:FFB800"/>
+</p>
