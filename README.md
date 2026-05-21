@@ -326,6 +326,4 @@ class Meenakshi:
 
 
 
-width="100%" />
 
-</div>
