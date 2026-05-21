@@ -89,16 +89,73 @@
 
 ## 📊 My Working KPI's
 
-<p align="left">
-  <img width="794" height="170" alt="image" src="https://github.com/user-attachments/assets/9a1f8d4f-435f-446e-87b4-bc007a2bae78" />
+<table align="center">
+<tr>
 
-</p>
+<td align="center" width="180" height="150">
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=120&height=45&lines=5%2B"/>
+
+<br>
+
+<b>Projects</b>
+
+</td>
+
+<td align="center" width="180" height="150">
+
+<img src="https://img.icons8.com/fluency/96/dashboard-layout.png" width="55"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=130&height=45&lines=10%2B"/>
+
+<br>
+
+<b>Dashboards</b>
+
+</td>
+
+<td align="center" width="180" height="150">
+
+<img src="https://img.icons8.com/fluency/96/database.png" width="55"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=150&height=45&lines=200%2B"/>
+
+<br>
+
+<b>SQL Problems</b>
+
+</td>
+
+<td align="center" width="180" height="150">
+
+<img src="https://img.icons8.com/fluency/96/services.png" width="55"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=F59E0B&center=true&vCenter=true&width=120&height=45&lines=4%2B"/>
+
+<br>
+
+<b>Tools</b>
+
+</td>
+
+</tr>
+</table>
 
 
 
 ## 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=meenakshi-12345&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -106,7 +163,7 @@
 ## 📊 GitHub Analytics
 
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meenakshi-12345&theme=tokyonight" />
 </p>
 
@@ -248,6 +305,7 @@ class Meenakshi:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4D9D,100:FFB800"/>
 </p>
+
 
 
 
