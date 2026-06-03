@@ -84,6 +84,13 @@
 </p>
 
 <p align="center">
+  <a href="https://www.codechef.com/users/meenakshi_rajp">
+    <img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="center">
   💡 Consistently practicing and building 
 </p>
 
