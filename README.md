@@ -261,6 +261,27 @@ class Meenakshi:
 <img width="1040" height="360" alt="activity-overview" src="https://github.com/user-attachments/assets/a81f7771-f0eb-4f45-8796-d380f5e85793" />
 
 
+
+
+
+
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_HH6KYc4gmAiBsPNAs_1769526392899_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Forage-Data%20Analytics-7C3AED?style=flat-square&logo=googleanalytics&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HH6KYc4gmAiBsPNAs_1752233970152_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-FF6B6B?style=flat-square&logo=hackthebox&logoColor=white"/>
+  </a>
+</p>
+
+
+
+
+
+
 ## ⚡ DATA WORKFLOW 
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -320,6 +341,10 @@ class Meenakshi:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4D9D,100:FFB800"/>
 </p>
+
+
+
+
 
 
 
