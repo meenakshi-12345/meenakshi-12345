@@ -256,10 +256,9 @@ class Meenakshi:
 ```
 
 
-## 📊 GitHub Activity Overview
-
-<img width="1040" height="360" alt="activity-overview" src="https://github.com/user-attachments/assets/a81f7771-f0eb-4f45-8796-d380f5e85793" />
-
+<p align="center">
+     <img src="./assets/sql-profile-terminal.svg" alt="SQL query revealing analyst profile" width="850"/>
+   </p>
 
 
 
