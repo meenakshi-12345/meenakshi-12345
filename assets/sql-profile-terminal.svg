@@ -1,6 +1,14 @@
 <svg viewBox="0 0 900 470" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
 
   <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="35%" stop-color="#2563eb"/>
+      <stop offset="65%" stop-color="#9333ea"/>
+      <stop offset="85%" stop-color="#db2777"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+
     <clipPath id="clipComment">
       <rect x="40" y="59" width="0" height="20">
         <animate attributeName="width" keyTimes="0;0.067;0.11;1" values="0;0;380;380" dur="12s" repeatCount="indefinite"/>
@@ -23,36 +31,38 @@
     </clipPath>
   </defs>
 
-  <!-- Terminal window -->
-  <rect x="2" y="2" width="896" height="466" rx="12" fill="#1e1e2e" stroke="#3c3f58" stroke-width="1.5"/>
+  <!-- Terminal window (GitHub-dark background so it blends with the page) -->
+  <rect x="2" y="2" width="896" height="466" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
+  <!-- Gradient accent strip along the top, echoing the banner -->
+  <path d="M2,14 a12,12 0 0 1 12,-12 h872 a12,12 0 0 1 12,12 v3 h-896 z" fill="url(#bannerGradient)"/>
   <!-- Header bar -->
-  <path d="M2,14 a12,12 0 0 1 12,-12 h872 a12,12 0 0 1 12,12 v26 h-896 z" fill="#2d2d44"/>
-  <circle cx="26" cy="27" r="6.5" fill="#ff5f56"/>
-  <circle cx="46" cy="27" r="6.5" fill="#ffbd2e"/>
-  <circle cx="66" cy="27" r="6.5" fill="#27c93f"/>
-  <text x="450" y="32" text-anchor="middle" font-size="13" fill="#cdd3f0">SQLQuery1.sql — Portfolio.MDF (Meenakshi)</text>
+  <rect x="2" y="17" width="896" height="23" fill="#161b22"/>
+  <circle cx="26" cy="28" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="28" r="6.5" fill="#ffbd2e"/>
+  <circle cx="66" cy="28" r="6.5" fill="#27c93f"/>
+  <text x="450" y="33" text-anchor="middle" font-size="13" fill="#8b949e">SQLQuery1.sql — Portfolio.MDF (Meenakshi)</text>
 
   <!-- Typed lines -->
   <g clip-path="url(#clipComment)">
-    <text x="40" y="75" font-size="14" fill="#6a9955">-- Querying the analyst behind this profile</text>
+    <text x="40" y="75" font-size="14" fill="#9333ea">-- Querying the analyst behind this profile</text>
   </g>
 
   <g clip-path="url(#clipQuery)">
     <text x="40" y="101" font-size="14">
-      <tspan fill="#569cd6">SELECT</tspan><tspan fill="#d4d4d4"> Name, Role, Primary_Skills, Passion, Current_Focus, Career_Goal</tspan>
+      <tspan fill="#2dd4bf">SELECT</tspan><tspan fill="#c9d1d9"> Name, Role, Primary_Skills, Passion, Current_Focus, Career_Goal</tspan>
     </text>
   </g>
 
   <g clip-path="url(#clipFrom)">
     <text x="40" y="127" font-size="14">
-      <tspan fill="#569cd6">FROM</tspan><tspan fill="#d4d4d4"> Portfolio</tspan>
+      <tspan fill="#2dd4bf">FROM</tspan><tspan fill="#c9d1d9"> Portfolio</tspan>
     </text>
   </g>
 
   <g clip-path="url(#clipWhere)">
     <text x="40" y="153" font-size="14">
-      <tspan fill="#569cd6">WHERE</tspan><tspan fill="#d4d4d4"> Mindset = </tspan><tspan fill="#ce9178">'Continuous Learning'</tspan><tspan fill="#d4d4d4"> AND Curiosity = </tspan><tspan fill="#ce9178">'High'</tspan><tspan fill="#d4d4d4">;</tspan>
+      <tspan fill="#2dd4bf">WHERE</tspan><tspan fill="#c9d1d9"> Mindset = </tspan><tspan fill="#f472b6">'Continuous Learning'</tspan><tspan fill="#c9d1d9"> AND Curiosity = </tspan><tspan fill="#f472b6">'High'</tspan><tspan fill="#c9d1d9">;</tspan>
     </text>
   </g>
 
@@ -60,47 +70,48 @@
   <g>
     <animate attributeName="opacity" keyTimes="0;0.02;0.05;0.08;0.11;0.14;0.17;0.2;0.23;0.26;0.29;0.32;0.333;1"
       values="1;0;1;0;1;0;1;0;1;0;1;0;1;0" dur="12s" repeatCount="indefinite"/>
-    <rect x="587" y="139" width="8" height="16" fill="#d4d4d4"/>
+    <rect x="587" y="139" width="8" height="16" fill="#f59e0b"/>
   </g>
 
   <!-- Result table -->
   <g>
     <animate attributeName="opacity" keyTimes="0;0.358;0.392;0.958;1" values="0;0;1;1;0" dur="12s" repeatCount="indefinite"/>
 
-    <rect x="40" y="195" width="790" height="192" fill="none" stroke="#3c3f58" stroke-width="1.5"/>
-    <line x1="230" y1="195" x2="230" y2="387" stroke="#3c3f58" stroke-width="1.5"/>
-    <line x1="40" y1="227" x2="830" y2="227" stroke="#3c3f58"/>
-    <line x1="40" y1="259" x2="830" y2="259" stroke="#3c3f58"/>
-    <line x1="40" y1="291" x2="830" y2="291" stroke="#3c3f58"/>
-    <line x1="40" y1="323" x2="830" y2="323" stroke="#3c3f58"/>
-    <line x1="40" y1="355" x2="830" y2="355" stroke="#3c3f58"/>
+    <rect x="40" y="195" width="790" height="192" fill="none" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="230" y1="195" x2="230" y2="387" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="40" y1="227" x2="830" y2="227" stroke="#30363d"/>
+    <line x1="40" y1="259" x2="830" y2="259" stroke="#30363d"/>
+    <line x1="40" y1="291" x2="830" y2="291" stroke="#30363d"/>
+    <line x1="40" y1="323" x2="830" y2="323" stroke="#30363d"/>
+    <line x1="40" y1="355" x2="830" y2="355" stroke="#30363d"/>
 
     <g font-size="13.5">
-      <text x="55" y="215" fill="#4ec9b0">Name</text>
-      <text x="245" y="215" fill="#d4d4d4">Meenakshi Rajpurohit</text>
+      <text x="55" y="215" fill="#f59e0b">Name</text>
+      <text x="245" y="215" fill="#c9d1d9">Meenakshi Rajpurohit</text>
 
-      <text x="55" y="247" fill="#4ec9b0">Role</text>
-      <text x="245" y="247" fill="#d4d4d4">Data Analyst</text>
+      <text x="55" y="247" fill="#f59e0b">Role</text>
+      <text x="245" y="247" fill="#c9d1d9">Data Analyst</text>
 
-      <text x="55" y="279" fill="#4ec9b0">Primary Skills</text>
-      <text x="245" y="279" fill="#d4d4d4">SQL • Python • Power BI</text>
+      <text x="55" y="279" fill="#f59e0b">Primary Skills</text>
+      <text x="245" y="279" fill="#c9d1d9">SQL • Python • Power BI</text>
 
-      <text x="55" y="311" fill="#4ec9b0">Passion</text>
-      <text x="245" y="311" fill="#d4d4d4">Transforming data into business insights</text>
+      <text x="55" y="311" fill="#f59e0b">Passion</text>
+      <text x="245" y="311" fill="#c9d1d9">Transforming data into business insights</text>
 
-      <text x="55" y="343" fill="#4ec9b0">Current Focus</text>
-      <text x="245" y="343" fill="#d4d4d4">Building end-to-end analytics projects</text>
+      <text x="55" y="343" fill="#f59e0b">Current Focus</text>
+      <text x="245" y="343" fill="#c9d1d9">Building end-to-end analytics projects</text>
 
-      <text x="55" y="375" fill="#4ec9b0">Career Goal</text>
-      <text x="245" y="375" fill="#d4d4d4">Data-driven decision making</text>
+      <text x="55" y="375" fill="#f59e0b">Career Goal</text>
+      <text x="245" y="375" fill="#c9d1d9">Data-driven decision making</text>
     </g>
   </g>
 
   <!-- Footer status -->
   <g>
     <animate attributeName="opacity" keyTimes="0;0.4;0.433;0.958;1" values="0;0;1;1;0" dur="12s" repeatCount="indefinite"/>
-    <text x="40" y="412" font-size="13" font-style="italic" fill="#6a6a8a">(1 row affected)</text>
-    <text x="40" y="436" font-size="13" fill="#4ec9b0">Query executed successfully.</text>
+    <text x="40" y="412" font-size="13" font-style="italic" fill="#6e7681">(1 row affected)</text>
+    <text x="40" y="436" font-size="13" fill="#2dd4bf">Query executed successfully.</text>
   </g>
 
 </svg>
+
