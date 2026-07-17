@@ -93,7 +93,7 @@
       <text x="245" y="247" fill="#c9d1d9">Data Analyst</text>
 
       <text x="55" y="279" fill="#f59e0b">Primary Skills</text>
-      <text x="245" y="279" fill="#c9d1d9">SQL • Python • Power BI</text>
+      <text x="245" y="279" fill="#c9d1d9">SQL • Python • Excel • Power BI</text>
 
       <text x="55" y="311" fill="#f59e0b">Passion</text>
       <text x="245" y="311" fill="#c9d1d9">Transforming data into business insights</text>
@@ -105,7 +105,7 @@
       <text x="245" y="375" fill="#c9d1d9">Data-driven decision making</text>
     </g>
   </g>
-
+  
   <!-- Footer status -->
   <g>
     <animate attributeName="opacity" keyTimes="0;0.4;0.433;0.958;1" values="0;0;1;1;0" dur="12s" repeatCount="indefinite"/>
