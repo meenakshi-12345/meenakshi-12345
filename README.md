@@ -164,26 +164,6 @@
 
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meenakshi-12345&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 📊 GitHub Analytics
-
-
-<p align="center">
- <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meenakshi-12345&theme=radical" 
-    width="100%"
-  />
-</p>
-
-
-
-
 <h2 align="left">🎓 Education</h2>
 
 <div align="center">
