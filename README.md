@@ -246,8 +246,12 @@ class Meenakshi:
 
 ## 🏆 Certifications
 
-
 <p align="center">
+
+  <a href="https://www.credly.com/badges/1afcb324-a2c6-40ed-a8b5-02072593b710/public_url">
+    <img src="https://img.shields.io/badge/McKinsey.org-Forward%20Program-8A2BE2?style=flat-square"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/certificates/7b9b7b916255">
     <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
   </a>
@@ -259,6 +263,7 @@ class Meenakshi:
   <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HH6KYc4gmAiBsPNAs_1752233970152_completion_certificate.pdf">
     <img src="https://img.shields.io/badge/Forage-Virtual%20Experience-FF6B6B?style=flat-square&logo=hackthebox&logoColor=white"/>
   </a>
+
 </p>
 
 
@@ -323,7 +328,6 @@ class Meenakshi:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4D9D,100:FFB800"/>
 </p>
-
 
 
 
