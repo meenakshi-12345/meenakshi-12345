@@ -172,7 +172,7 @@
 
 <img src="https://img.shields.io/badge/Government%20Engineering%20College%20Bikaner-161B22?style=for-the-badge&logo=google-scholar&logoColor=F59E0B" />
 
-<img src="https://img.shields.io/badge/CGPA%20•%208.6%2F10-0D1117?style=for-the-badge&logo=googlesheets&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/CGPA%20•%208.66%2F10-0D1117?style=for-the-badge&logo=googlesheets&logoColor=22C55E" />
 
 <img src="https://img.shields.io/badge/Latest%20SGPA%20•%209.61%2F10-161B22?style=for-the-badge&logo=target&logoColor=A855F7" />
 
