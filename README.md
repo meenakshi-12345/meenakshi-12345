@@ -40,29 +40,24 @@
 ## 🌐 Socials:
 
 <a href="mailto:imeenakshii28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-imeenakshii28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-imeenakshii28-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/meenakshirajp28">
-  <img src="https://img.shields.io/badge/LinkedIn-Meenakshi%20Rajpurohit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Meenakshi%20Rajpurohit-4A90A4?style=flat&logo=linkedin&logoColor=white" />
 </a>
-
-<!-- HackerRank -->
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/imeenakshii28">
-  <img src="https://img.shields.io/badge/HackerRank-imeenakshii28-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-imeenakshii28-3AA76D?style=flat&logo=hackerrank&logoColor=white" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<!-- Kaggle -->
 <a href="https://www.kaggle.com/meenakshirajp28">
-  <img src="https://img.shields.io/badge/Kaggle-meenakshirajp28-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-meenakshirajp28-4AA8C4?style=flat&logo=kaggle&logoColor=white" />
 </a>
-
-<!-- Discord -->
-<a href="https://discord.com/users/1437277015672750231">
-  <img src="https://img.shields.io/badge/Discord-meenakshirajpurohit_17345-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -330,13 +325,6 @@ class Meenakshi:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4D9D,100:FFB800"/>
 </p>
-
-
-
-
-
-
-
 
 
 
