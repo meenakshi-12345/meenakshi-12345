@@ -301,21 +301,24 @@ class Meenakshi:
 
 
 
+<h2 align="center">✨ Let's Connect</h2>
 
-<h2 align="center"> Connect With Me ✨</h2>
+<p align="center">
+  <i>Always open to conversations around data, analytics & opportunities.</i>
+</p>
 
 <p align="center">
   <a href="mailto:imeenakshii28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/meenakshirajp28">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=450&lines=Let's+Talk+About+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=16&pause=2500&color=8B949E&center=true&vCenter=true&width=500&lines=Data+%7C+Insights+%7C+Storytelling;Let's+turn+data+into+something+meaningful+%F0%9F%92%A1" />
 </p>
 
 
@@ -325,14 +328,6 @@ class Meenakshi:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4D9D,100:FFB800"/>
 </p>
-
-
-
-
-
-
-
-
 
 
 
