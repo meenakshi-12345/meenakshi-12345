@@ -10,9 +10,12 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95688f24-8f85-455f-b881-10b168b0db6a" width="350" alt="GIF">
+  <img src="https://github.com/user-attachments/assets/95688f24-8f85-455f-b881-10b168b0db6a" width="220" height="220" alt="GIF">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/bd64b309-b40b-4252-a029-88548ce09ff8" width="220" height="220" alt="Cat GIF">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fd323bb0-3f33-412f-8d3b-288228437d2f" width="220" height="220" alt="Typing GIF">
 </p>
 
 
