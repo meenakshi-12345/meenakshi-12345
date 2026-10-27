@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&center=true&vCenter=true&lines=Data+Analysis;SQL+Enthusiast;Building+Power+BI+ dashboards;Turning+Data+Into+Insights;Problem+Solver+with+Data;Story+Teller" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&center=true&vCenter=true&lines=Data+Analysis;SQL+Enthusiast;Building+Power+BI+dashboards;Turning+Data+Into+Insights;Problem+Solver+with+Data;Story+Teller" />
 </p>
 
 
